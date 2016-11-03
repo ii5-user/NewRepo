@@ -5,7 +5,7 @@ public class NewTest {
 	@Test
 	public void testApp1()
 	{
-		System.out.println("Testingert App");
+		System.out.println("Testingertd App");
 	}
 
 
